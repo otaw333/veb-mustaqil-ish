@@ -1,0 +1,81 @@
+img, svg {
+    vertical-align: middle;
+}
+.navbar-brand {
+    margin-left:10px;
+}
+.d-flex {
+    margin-right: 10px;
+}
+.d-flex {
+    margin-right: 10px;
+    margin-left: 485px;
+}
+.bg-body-tertiary {
+    height: 50px;
+}
+.container1{
+    margin: 0px; 
+    margin-left:40px ;
+}
+.container1 span{
+    vertical-align: top;
+    display: inline-block;
+}
+.card11{
+margin-left: 10px;
+}
+#card11 a:hover,
+#card11 a.current {
+  color: #0314fc;
+}
+
+#card11 a{
+    text-decoration: none;
+    color: black;
+}
+.accordion {
+    margin-left: 20px;
+    margin-right: 40px;
+}
+.w1-100{
+    height: 300px;
+}
+.endd{
+    height: 125px;
+}
+.endd span{
+    vertical-align:top;
+    display: inline-block;
+}
+.endd1{
+    height: 125px;
+}
+.end1{
+    margin-left:100px;
+}
+.end3{
+    margin-left:150px;
+}
+.end8{
+    margin-left:250px;
+}
+.endd1{
+    text-align: center;
+}
+.ddddd{
+background-color: black;
+}
+.card-img, .card-img-bottom, .card-img-top {
+    width: 100%;
+    height: 330px;
+}
+.bi-chat-dots{
+    margin-left:20px;
+}
+.card-text{
+    height: 55px;
+}
+.btn-outline-dark{
+    margin-top: 10px;
+}
